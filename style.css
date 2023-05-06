@@ -1,0 +1,57 @@
+
+
+
+.link-verde {
+    color: rgb(15, 169, 15) !important;
+}
+
+
+.btn-outline-light {
+    color: white;
+}
+
+.bd-placeholder-img{
+   filter: brightness(60%);
+}
+
+
+.text-white{
+    color: white;
+}
+
+.oradores{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.container-oradores {
+    padding: 1rem 10rem;
+    width: 80%;
+    margin: auto;
+}
+
+.container-oradores img{
+    position: relative;
+    margin: 0;
+}
+
+
+.row{
+    margin: auto;
+}
+
+.footer {
+    text-align: center;
+    background:rgba(28, 26, 73, 0.821);
+    display: flex;
+    flex-direction: row;
+    padding-left: 300px;
+    padding-right: 300px;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 0%;
+}
